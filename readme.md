@@ -1,3 +1,6 @@
+اسلاید هفتم:
+صفحه ۵
+
 cohesion
 
 <div dir="rtl">
@@ -14,5 +17,10 @@ abstraction
 
 <div dir="rtl">
 در برنامه نویسی یک وقتایی یک موضوع رو ساده‌ش می‌کنیم. مثلا می‌خوایم یک ماشین تعریف کنیم حالا از هر شرکتی که هست. همه‌شون ماشینن. یک سطح میریم بالاتر. خواص مشترک بین همه‌شون وجود داره رو میگیم یه abstraction از اون موضوع.
-
 </div>
+
+
+adapter pattern, singleton pattern, chain of responsibility pattern
+
+pattern features:
+problem, context, solution
