@@ -1,4 +1,6 @@
-*.tex
+*.lof
+*.toc
+*.lot
 *.aux
 *.sty
 *.log
